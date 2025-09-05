@@ -1,7 +1,3 @@
-#inicio{
-    background-image: url('/src/assets/hero-bg.jpg');
-}
-
 @keyframes float {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-10px); }
